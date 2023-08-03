@@ -1,3 +1,4 @@
 # Misiones
 
-Terminar este curso
+Terminar este curso de Git & GitHub
+Comenzar estudio de php
